@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ITSQLite_Example' do
+  pod 'ITSQLite', :path => '../'
+
+  target 'ITSQLite_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
