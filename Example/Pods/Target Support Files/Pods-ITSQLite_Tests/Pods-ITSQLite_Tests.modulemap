@@ -1,0 +1,6 @@
+framework module Pods_ITSQLite_Tests {
+  umbrella header "Pods-ITSQLite_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

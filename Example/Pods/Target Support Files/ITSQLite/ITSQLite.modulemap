@@ -1,0 +1,6 @@
+framework module ITSQLite {
+  umbrella header "ITSQLite-umbrella.h"
+
+  export *
+  module * { export * }
+}

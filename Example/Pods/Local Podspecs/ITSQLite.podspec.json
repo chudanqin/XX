@@ -1,0 +1,22 @@
+{
+  "name": "ITSQLite",
+  "version": "0.1.0",
+  "summary": "A short description of ITSQLite.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chudanqin@gmail.com/ITSQLite",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chudanqin@gmail.com": "chudanqin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/chudanqin@gmail.com/ITSQLite.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ITSQLite/Classes/**/*"
+}
